@@ -1,0 +1,26 @@
+h1 {
+    font-size: 5rem;
+    color: red;
+}
+
+.message {
+    color: purple;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.email {
+    color: green;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.name {
+    color: orange;
+    font-style: italic;
+    font-weight: 900;
+}
+
+.send {
+    color: yellow;
+}
