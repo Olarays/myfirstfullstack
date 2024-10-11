@@ -1,0 +1,15 @@
+.d-flex {
+    display: flex;
+}
+.flex-1 {
+    flex: 1;
+}
+.p-1 {
+    padding: 1rem;
+}
+.p-2 {
+    padding: 2rem;
+}
+.p-3 {
+    padding: 3rem;
+}
